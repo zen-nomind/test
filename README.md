@@ -1,0 +1,4 @@
+test
+====
+
+test phonegap build
